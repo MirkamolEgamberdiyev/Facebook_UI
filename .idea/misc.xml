@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/backround_color.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/backround_shape.xml" value="0.1" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/ic_baseline_arrow_back_ios_new_24.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.1" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/ic_baseline_insert_comment_24.xml" value="0.183" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/ic_baseline_more_horiz_24.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/ic_baseline_public_24.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/ic_baseline_white_close_24.xml" value="0.1" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/rounded_update.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/search_24.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/shape.xml" value="0.1" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/shape_background_rounded.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/shape_border_circle.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/shape_border_rounded.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/drawable/shape_create_story.xml" value="0.1155" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/activity_main.xml" value="0.1712962962962963" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/activity_main2.xml" value="0.18" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_create_story.xml" value="0.33" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_feed_head.xml" value="0.18" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_feed_post.xml" value="0.22" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_feed_story.xml" value="0.20416666666666666" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_feed_update_post.xml" value="0.18" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_post_create.xml" value="0.18" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_post_more_image.xml" value="0.2" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_post_more_image_view.xml" value="0.22" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_post_more_images.xml" value="0.22" />
+        <entry key="..\:/Android project/demo_facebook/app/src/main/res/layout/item_story_view.xml" value="0.20416666666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
